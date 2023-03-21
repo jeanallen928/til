@@ -1,0 +1,19 @@
+-협업의 순서
+1. issue
+2. branch 작업
+	2.5 review(PR)
+3. merge
+
+-issue 생성, 할당
+bug 등
+
+-branch
+checkout 잘 하기
+merge 후 작업이 끝난 branch는 삭제. 삭제시 다른 branch로 checkout해야 삭제할 수 있다.
+특정 commit에서 갈라져 나와서 따로 작업 후 merge
+
+-merge
+main에 checkout한 상태에서 병합!
+merge conflic 발생 시 파일 수정 후 merge commit
+
+remote와 local의 push&pull은 tracking으로 서로 연결된 branch사이에서 일어나는 일.
