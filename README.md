@@ -13,21 +13,21 @@
 
 ## 핵심 기능  Key Feature
 - 매주 수행한 과제를 모아둡니다.
-- 3주차 강의를 들으면서 배운 걸 볼 수 있습니다.
+- 강의 내용의 키워드들을 볼 수 있습니다.
 
 ## 사용 How To Use
-- 사용하고 싶도록 유용한 몇 가지 예를 적습니다. 코드 블록과 스크린샷 포함.
-- (wiki가 있을 경우) _더 많은 예시와 사용 예제는 [Wiki](wiki)를 참고하세요._
+- 파일을 열어봅니다.
+- _마음껏 실험합니다._
 ![](header.png)
 
 ## Contributing
-*(프로젝트 기여자가 있을 경우 적습니다)*
-- Thanks to @기여자이름
+*(siyoungoh=ohahohah)*
+- Thanks to @SiYoungOh
 
 ## Reference
-*(참고 리소스,  code snippet, 라이센스 정보를 표기합니다)*
-- (예시) [네이버 지도 API](링크url) : 장소카드 지도화면에 사용
-- (예시) [Teachable Machine](https://teachablemachine.withgoogle.com/) : 절하는 pose MachineLearning Model 
+- [스파르타코딩클럽](https://spartacodingclub.kr/) : 강의 수강 사이트
+- [소스트리](https://www.sourcetreeapp.com/) : 소스트리 다운로드 사이트
+
 
 ## Links
 *(사람이 읽기 쉽게 요약된 링크 정보를 추가합니다)*
